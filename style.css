@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', cursive;
+    }
+     .logo-image img{
+        width: 35%;
+       /* border-radius: 50%;
+         overflow: visible;  */
+        margin-top: -6px; 
+    }
+
+   
